@@ -47,12 +47,6 @@ This approach enables efficient delivery without compromising engineering qualit
 
 ---
 
-## 🏗️ High-Level Architecture
-
-```text
-Market Data → Strategy Engine → Risk Management → Trade Execution (MT5)
-                                      ↓
-                               Notifications (Telegram)
 
 ## 🔗 Connect
 
