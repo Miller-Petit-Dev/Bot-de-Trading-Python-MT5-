@@ -53,3 +53,14 @@ This approach enables efficient delivery without compromising engineering qualit
 Market Data → Strategy Engine → Risk Management → Trade Execution (MT5)
                                       ↓
                                Notifications (Telegram)
+
+## 🔗 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/millerpetit/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30"
+         width="40" />
+  </a>
+</p>
